@@ -1,0 +1,378 @@
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\UdemyWeb.dll.config
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\UdemyWeb.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\UdemyWeb.pdb
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\csc.exe
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\csc.exe.config
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\csc.rsp
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\csi.exe
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\csi.exe.config
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\csi.rsp
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\System.AppContext.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\System.Console.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\vbc.exe
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\vbc.exe.config
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\vbc.rsp
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\obj\Debug\UdemyWeb.csproj.AssemblyReference.cache
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\obj\Debug\UdemyWeb.csproj.CoreCompileInputs.cache
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\obj\Debug\UdemyWeb.csproj.CopyComplete
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\obj\Debug\UdemyWeb.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\obj\Debug\UdemyWeb.pdb
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\Azure.Core.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\Azure.Identity.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\Microsoft.Data.SqlClient.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\Microsoft.Identity.Client.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.Buffers.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.Memory.Data.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.Memory.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.Numerics.Vectors.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.Security.AccessControl.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.Security.Permissions.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.Security.Principal.Windows.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.Text.Encodings.Web.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.Text.Json.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.ValueTuple.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\Azure.Core.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\Azure.Identity.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\Microsoft.Data.SqlClient.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\Microsoft.Identity.Client.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.Buffers.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.Memory.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.Memory.Data.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.Numerics.Vectors.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.Security.AccessControl.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.Security.Cryptography.ProtectedData.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.Security.Permissions.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.Security.Principal.Windows.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.Text.Encodings.Web.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.Text.Json.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\System.ValueTuple.xml
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifa\source\repos\UdemyWeb\UdemyWeb\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\UdemyWeb.dll.config
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\UdemyWeb.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\UdemyWeb.pdb
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\csc.exe
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\csc.exe.config
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\csc.rsp
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\csi.exe
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\csi.exe.config
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\csi.rsp
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\System.AppContext.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\System.Console.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\vbc.exe
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\vbc.exe.config
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\vbc.rsp
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\Azure.Core.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\Azure.Identity.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\Microsoft.Data.SqlClient.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\Microsoft.Identity.Client.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.Buffers.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.Memory.Data.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.Memory.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.Numerics.Vectors.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.Security.AccessControl.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.Security.Cryptography.ProtectedData.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.Security.Permissions.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.Security.Principal.Windows.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.Text.Encodings.Web.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.Text.Json.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.ValueTuple.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\Azure.Core.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\Azure.Identity.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\Microsoft.Data.SqlClient.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\Microsoft.Identity.Client.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.Buffers.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.Memory.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.Memory.Data.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.Numerics.Vectors.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.Security.AccessControl.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.Security.Cryptography.ProtectedData.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.Security.Permissions.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.Security.Principal.Windows.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.Text.Encodings.Web.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.Text.Json.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\System.ValueTuple.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\obj\Debug\UdemyWeb.csproj.AssemblyReference.cache
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\obj\Debug\UdemyWeb.csproj.CoreCompileInputs.cache
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\obj\Debug\UdemyWeb.csproj.CopyComplete
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\obj\Debug\UdemyWeb.dll
+C:\Users\berra\Masaüstü\UdemyWeb\UdemyWeb\obj\Debug\UdemyWeb.pdb
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\UdemyWeb.dll.config
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\UdemyWeb.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\UdemyWeb.pdb
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\csc.exe
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\csc.exe.config
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\csc.rsp
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\csi.exe
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\csi.exe.config
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\csi.rsp
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\System.AppContext.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\System.Console.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\vbc.exe
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\vbc.exe.config
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\vbc.rsp
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\Azure.Core.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\Azure.Identity.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\Microsoft.Data.SqlClient.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\Microsoft.Identity.Client.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.Buffers.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.Memory.Data.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.Memory.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.Numerics.Vectors.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.Security.AccessControl.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.Security.Permissions.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.Security.Principal.Windows.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.Text.Encodings.Web.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.Text.Json.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.ValueTuple.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\Azure.Core.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\Azure.Identity.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\Microsoft.Data.SqlClient.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\Microsoft.Identity.Client.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.Buffers.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.Memory.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.Memory.Data.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.Numerics.Vectors.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.Security.AccessControl.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.Security.Cryptography.ProtectedData.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.Security.Permissions.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.Security.Principal.Windows.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.Text.Encodings.Web.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.Text.Json.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\System.ValueTuple.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\obj\Debug\UdemyWeb.csproj.AssemblyReference.cache
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\obj\Debug\UdemyWeb.csproj.CoreCompileInputs.cache
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\obj\Debug\UdemyWeb.csproj.CopyComplete
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\obj\Debug\UdemyWeb.dll
+C:\Users\elifa\OneDrive\Masaüstü\UdemyWeb - Kopya\UdemyWeb\obj\Debug\UdemyWeb.pdb
